@@ -7,5 +7,5 @@ Screws:
 Case: m2.5 sockethead 5mm 
 https://www.mcmaster.com/91292A009/
 
-Bumpons: 8x4
-https://www.amazon.com/PTAPIPI-Self-Adhesive-Hemispherical-Appliances-Electronics/dp/B08QGFYG8P/ref=sr_1_7?crid=1NDEXKIO20KHW&keywords=6mm+bumpons&qid=1642794255&sprefix=6mm+bumpons%2Caps%2C103&sr=8-7
+Bumpons: 8x2.5
+https://www.amazon.com/Silicone-Rubber-Bumpons-Adhesive-Circles/dp/B07DN6W6VN/ref=sr_1_5?crid=3ADHACEENERSY&keywords=8mm%2Bbumpons&qid=1651329537&sprefix=8mm%2Bbumpon%2Caps%2C150&sr=8-5&th=1
