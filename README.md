@@ -1,5 +1,8 @@
 # BigBoy
- BigBoy
+ BigBoy is a 6 key macropad with a rotary encoder and a big ol brass knob. The case and its parts were designed by me and the pcb was designed by tominabox.
+
+Encoder used (EC21A1540401):
+https://www.mouser.com/en/ProductDetail/Alps-Alpine/EC21A1540401?qs=YMSFtX0bdJDqJ3PNi4kFEA%3D%3D
 
 
 Screws:
