@@ -1,0 +1,39 @@
+### Module positions - created on Monday, April 11, 2022 at 08:12:00 PM ###
+### Printed by Pcbnew version (6.0.1-0)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                           Package                               PosX       PosY       Rot  Side
+C1        10uF                          C_0603_1608Metric                 130.5000  -122.5000  180.0000  top
+C2        0.1uF                         C_0603_1608Metric                 134.2800  -147.1500  180.0000  top
+C3        0.1uF                         C_0603_1608Metric                 139.0000  -132.7750   90.0000  top
+C4        0.1uF                         C_0603_1608Metric                 135.4000  -128.8000    0.0000  top
+C5        0.1uF                         C_0603_1608Metric                 124.0000  -131.0000   90.0000  top
+C6        0.1uF                         C_0603_1608Metric                 124.0000  -143.2500  -45.0000  top
+C7        1uF                           C_0603_1608Metric                 125.5000  -130.7500   90.0000  top
+C8        22pF                          C_0603_1608Metric                 133.1480  -151.1500  -90.0000  top
+C9        22pF                          C_0603_1608Metric                 127.0520  -151.1500   90.0000  top
+F1        500mA                         Fuse_1206_3216Metric              129.2000  -120.2000  180.0000  top
+J1        Conn_01x03_Male               PinHeader_1x03_P2.54mm_Vertical   157.4850  -154.3800  -90.0000  top
+J2        Conn_02x04_Counter_Clockwise  PinHeader_2x04_P2.54mm_Vertical   139.1000  -156.8050   90.0000  top
+K1        1U                            MXOnly-1U-NoLED                   112.0187  -128.2375    0.0000  top
+K2        1U                            MXOnly-1U-NoLED                    73.9188  -147.2875    0.0000  top
+K3        1U                            MXOnly-2U-NoLED                    92.9688  -137.7625   90.0000  top
+K4        1U                            MXOnly-1U-NoLED                    73.9188  -128.2375    0.0000  top
+K5        1U                            MXOnly-1U-NoLED                    92.9688  -147.2875    0.0000  top
+K6        1U                            MXOnly-1U-NoLED                   112.0187  -147.2875    0.0000  top
+K7        1U                            MXOnly-2U-NoLED                   112.0187  -137.7625   90.0000  top
+K8        1U                            MXOnly-2U-NoLED                    73.9188  -137.7625   90.0000  top
+K9        1U                            MXOnly-1U-NoLED                    92.9688  -128.2375    0.0000  top
+R1        5.1k                          R_0603_1608Metric                 114.3250  -118.0000    0.0000  top
+R2        5.1k                          R_0603_1608Metric                 123.2000  -118.2000  180.0000  top
+R3        22                            R_0603_1608Metric                 128.0000  -127.5000   90.0000  top
+R4        22                            R_0603_1608Metric                 126.5000  -127.5000   90.0000  top
+R5        10k                           R_0603_1608Metric                 140.1700  -141.3100   90.0000  top
+R6        10k                           R_0603_1608Metric                 122.5000  -140.5000  135.0000  top
+SW1       SW_Push                       SKQG-1155865                      151.9187  -122.8400    0.0000  top
+U1        ATmega32U4-M                  QFN_TQFP-44_Combined              131.2500  -138.2812  -45.0000  top
+U1        SW-TH_EC21A1540401            SW-TH_EC21A1540401                151.9187  -137.7625  -45.0000  top
+U2        PRTR5V0U2X                    SOT143B                           127.0000  -124.0000    0.0000  top
+USB1      HRO-TYPE-C-31-M-12            HRO-TYPE-C-31-M-12-Assembly       119.5312  -107.8125  180.0000  top
+Y1        16MHz                         Crystal_SMD_3225-4Pin_3.2x2.5mm   130.1000  -151.1500  180.0000  top
+## End
